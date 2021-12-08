@@ -2,7 +2,6 @@
 Fichier             : sudoku.js
 Auteur              : Ismael COULIBALY 
 But                 : permet de resoudre, afficher la grille de sudoku avec des stats en respectant les regles du jeu
-Derniere Mise A jour: Vendredi 8  Mars 2019
 
 */
 
